@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">sales management</string>
+    <string name="home">Home</string>
+    <string name="ocorreu_algum_erro">Ocorreu algum erro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_sale">Criar Pedido</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="attibute_required">Campo obrigatório</string>
+    <string name="save">Salvar</string>
+    <string name="total">Total</string>
+    <string name="product_not_created">Nenhum produto cadastrado</string>
+    <string name="products_created">Produtos cadastrados</string>
+    <string name="quantity">Quantidade</string>
+    <string name="value">Valor</string>
+    <string name="product_name">Nome do produto</string>
+    <string name="customer_name">Nome do cliente</string>
+    <string name="title_toolbar_create_sale">Criar Pedido</string>
+    <string name="show_alert_order_created">Pedido criado com sucesso!!</string>
+    <string name="show_alert_order_not_created">Algo de errado aconteceu, tente novamente!!</string>
+</resources>

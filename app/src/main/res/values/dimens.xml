@@ -1,0 +1,11 @@
+<resources>
+
+        <!-- dp-->
+      <dimen name="margin_0">0dp</dimen>
+      <dimen name="margin_5">5dp</dimen>
+      <dimen name="margin_16">16dp</dimen>
+
+    <!-- sp-->
+    <dimen name="size_16">16sp</dimen>
+    <dimen name="size_22">22sp</dimen>
+   </resources>
