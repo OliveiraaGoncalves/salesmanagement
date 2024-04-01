@@ -6,14 +6,14 @@ plugins {
 
 android {
     namespace = "com.salesmanagement.core_network"
-    compileSdk = 34
+    compileSdk = libs.versions.compile.sdk.get().toInt()
 
     buildFeatures {
         buildConfig = true
     }
 
     defaultConfig {
-        minSdk = 24
+        minSdk = libs.versions.min.sdk.get().toInt()
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -33,7 +33,7 @@ android {
         targetCompatibility = JavaVersion.VERSION_1_8
     }
     kotlinOptions {
-        jvmTarget = "1.8"
+        jvmTarget = libs.versions.java.version.get()
     }
 }
 
