@@ -34,6 +34,9 @@ Certifique-se de ter as seguintes ferramentas instaladas antes de começar:
 ## APK
 [Download do APK](./apk/app-debug.apk)
 
+## Atenção
+O app não dará suporte ao tema dark no momento.
+
 ## Configuração do Ambiente
 
 1. Clone este repositório.
