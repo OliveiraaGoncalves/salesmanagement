@@ -31,6 +31,8 @@ Certifique-se de ter as seguintes ferramentas instaladas antes de começar:
 - Android Studio [link](https://developer.android.com/studio)
 - AGP 8
 - JDK 17
+## APK
+[Download do APK](./apk/app-debug.apk)
 
 ## Configuração do Ambiente
 
